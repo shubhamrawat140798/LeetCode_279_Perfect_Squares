@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"LeetCode279.sumOfMinSquareOfNumber","c":"SumOfMinSquare","l":"findSumOfMinSquare(int)"},{"p":"LeetCode279.sumOfMinSquareOfNumber","c":"Main","l":"Main()","url":"%3Cinit%3E()"},{"p":"LeetCode279.sumOfMinSquareOfNumber","c":"Main","l":"main(String[])","url":"main(java.lang.String[])"}]

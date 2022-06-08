@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"LeetCode279.sumOfMinSquareOfNumber","l":"Main"},{"p":"LeetCode279.sumOfMinSquareOfNumber","l":"SumOfMinSquare"}]
